@@ -1,0 +1,10 @@
+version: 2
+
+models:
+  - name: booking_summary
+
+  - name: customer_behavior
+
+  - name: cancellation_analysis
+
+  - name: revenue_trends
